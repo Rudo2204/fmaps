@@ -1,0 +1,9 @@
+v2
+0 0 512 512 1 160/nauvis/day/20/1/-5.png
+0 0 512 512 3 160/nauvis/day/20/1/-4.png
+0 232 512 512 2 160/nauvis/day/20/1/-3.png
+0 0 512 512 0 160/nauvis/day/20/2/-5.png
+0 232 512 512 0 160/nauvis/day/20/2/-3.png
+72 0 512 512 4 160/nauvis/day/20/3/-5.png
+72 0 512 512 c 160/nauvis/day/20/3/-4.png
+72 232 512 512 8 160/nauvis/day/20/3/-3.png
